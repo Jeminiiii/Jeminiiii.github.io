@@ -1,4 +1,4 @@
 # Jeminiiii.github.io
 
 This is a learning website for Jemini :/
-[Nike](Nike.com)
+[Nike](https://www.nike.com)
